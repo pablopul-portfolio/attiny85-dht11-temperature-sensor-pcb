@@ -100,10 +100,10 @@ Install through Arduino IDE Library Manager:
   <table>
     <tr>
       <td>
-        <img width="400" alt="pcb_photo_1" src="https://github.com/user-attachments/assets/5c4991c5-c4a2-4585-88f5-87bc6cc4f5a9"/>
+        <img width="400" alt="pcb_photo_1" src="https://github.com/user-attachments/assets/ff0fe486-db8a-456c-89e4-351445d66fc8"/>
       </td>
       <td>
-        <img width="400" alt="pcb_photo_2" src="https://github.com/user-attachments/assets/c11f5a0d-e5f2-4f25-b411-f98afb271e1b"/>
+        <img width="400" alt="pcb_photo_2" src="https://github.com/user-attachments/assets/683a471c-2af6-4300-9c1b-cee750e5d970"/>
       </td>
     </tr>
   </table>
